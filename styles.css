@@ -596,7 +596,7 @@ background: linear-gradient(to right
 
 .testimonial-box img {
     width: 30%;
-    height: 30%;
+    height: 20%;
     border: 3px solid var(--grey);
     border-radius: 50%;
 }
